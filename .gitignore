@@ -1,6 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-creditcard.csv
+creditcard.csv*
 logs/
 .env
